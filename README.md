@@ -81,7 +81,7 @@ Ensure the following are installed on your system:
 The `.env` file contains the following configuration variables:
 
 ```env
-ROLL_NUMBER=21I-2513
+ROLL_NUMBER=your_roll_bumber
 FLEX_PASSWORD=your_password
 OPEN_AI_API_KEY=your_openai_api_key
 CHROME_DRIVER=path_to_chromedriver
