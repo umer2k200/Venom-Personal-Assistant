@@ -79,6 +79,7 @@ Ensure the following are installed on your system:
 ## Environment Variables
 
 The `.env` file contains the following configuration variables:
+Place this file inside the tasks directory
 
 ```env
 ROLL_NUMBER=your_roll_bumber
