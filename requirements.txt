@@ -1,0 +1,11 @@
+SpeechRecognition
+pyttsx3
+openai
+selenium
+pycaw
+comtypes
+screen-brightness-control
+requests
+beautifulsoup4
+pyautogui
+python-dotenv
